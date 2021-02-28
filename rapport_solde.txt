@@ -1,0 +1,21 @@
+2010:08/22/19:Ousseynou Diop:Tivaouane:773616969:Personal:10000$:Programmeur
+2011:08/22/19:Issa Ndong:Touba:773482898:Business:1000$:Réparateur
+2027:08/25/19:Khadim Diouf:Louga:782318954:Business:1400$:Courtier
+2014:08/22/19:Wally Fall:Thies:703537715:Business:1900$:Éleveur
+2030:08/25/19:Maouloud Kounta:Médina:779001213:Personal:1900$:Graphiste
+2015:08/22/19:Badou Nguer:Thiaroye:706482021:Personal:1900$:Journaliste
+2017:08/22/19:Babacar Séne:St-Louis:789101112:Personal:1900$:Professeur
+2021:08/22/19:Matel Gadiagua:Pikine:701238954:Personal:2100$:Etudiante
+2016:08/22/19:Assane Baye Fall Diop:Médina:764378798:Personal:2100$:Transitaire
+2028:08/25/19:Mouhamadou Moustapha Fall:Médina:778901234:Personal:2200$:Étudiant
+2022:08/22/19:Coumba Dagua:Mermoz:780987654:Personal:2600$:Etudiante
+2026:08/23/19:Cheikh Ndong:Touba:770998877:Personal:2800$:Taximan
+2020:08/22/19:Matilda Kouta:Tivaouane:773429810:Business:3000$:Commerçante
+2029:08/25/19:Cheikh Ahmadou Bamba Ndong:Tivaouane:778021287:Personal:3000$:Étudiant
+2018:08/22/19:Mame Amy Kouta:Espagne:780211890:Business:4500$:Coifeuse
+2025:08/23/19:Moustapha Sock:Thiaroye:770186754:Personal:6000$:Développeur
+2013:08/22/19:Maguette Mar Diop:Mbour:762568687:Personal:6500$:Élève
+2012:08/22/19:Ndeye Fatou Fall:Diourbel:771092021:Business:7000$:Commerçante
+2019:08/22/19:Combé Ndiaye:Yoff:700012233:Bisiness:8000$:Voleur
+2024:08/22/19:Serigne Mama Diop:St-Louis:764916666:Business:8900$:Gameur
+2023:08/22/19:Sindidi Diop:Touba:763616969:Personal:9400$:Banquier
